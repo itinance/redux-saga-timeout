@@ -1,0 +1,28 @@
+{
+  "name": "redux-saga-timer",
+  "version": "0.1.0",
+  "description": "setTimeout-support for sagas and side-effects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flow": "flow; test $? -eq 0 -o $? -eq 2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:itinance/redux-saga-timer"
+  },
+  "keywords": [
+    "react-native-component",
+    "redux-saga",
+    "redux-saga-channels",
+    "timer",
+    "side-effect"
+  ],
+  "author": "Hagen Huebel <hhuebel@itinance.com> (hhuebel@itinance.com)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^15.4.2",
+    "react-native": "^0.40.0"
+  }
+}
